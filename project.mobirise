@@ -1,0 +1,1060 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Areahints",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#44cccc",
+        "successColor": "#90a878",
+        "infoColor": "#bb4d00",
+        "warningColor": "#503c37",
+        "dangerColor": "#f28281",
+        "titleFont": "Yanone Kaffeesatz",
+        "subtitleFont": "Yanone Kaffeesatz",
+        "textFont": "Yanone Kaffeesatz",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#44cccc",
+        "#2e2e2e",
+        "#bb4d00",
+        "#503c37"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 34,
+    "versionPublish": "4.3.2",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "This website uses cookies to give you the best experience. Read our <a href='legal.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "html_before": "",
+    "headbody": "",
+    "botbody": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/areahints-fl-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AREAHINTS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#content7-2\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Website Building</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Social Media Advert&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Branding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@areahintsng\" aria-expanded=\"false\" target=\"_blank\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#form2-e\">Order</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#44cccc",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#f3c649"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/areahints-wood-texture-2000x1391.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<br>SEO READY ONE-PAGE WEBSITES",
+          "text": "Designed for startups<br>Built by experts<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#form2-e\" data-toolbar=\"-mbrBtnMove\">Order</a> "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Areahints.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "text-align": "center",
+              "color": "#2e2e2e"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Purchase a One - Page Website (From Us!)",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>So you are about to spend your money on a website for your business. the problem is, you dont know what kind of website it is that you need, and when you finally see something you like, you just cant afford it! &nbsp;Areahints is offering you reasons to purchase a one-page website for your startup below.</b></p><p><b><br></b></p><p><b>* Important Information is displayed on Landing Page.</b></p><p><b>* Website loading time is faster than your competitors.</b></p><p><b>* Mobile Friendly and Responsive.</b></p><p><b>* Budget Friendly.</b></p><p><b>* Fast Hosting Servers.</b></p><p><b>* SSL and Https included.</b></p><p><b>* No need for extensive backups.</b></p><p><b>* Saves your bandwidth.</b></p><p><b>* Visitors dont need to visit all the pages before getting what they need.</b></p><p><b>* Sites are SEO optimized i.e you can collect emails, have them call or Whatsapp you directly.</b></p><p><b>* Integration with Google Analytics, Facebook Pixel is a breeze.</b></p><p><b><br></b></p><p><b>As you can deduce already, this site has all the features listed above as proof, visit www.testmysite.google.com and input our url to see how fast and good we are! you can also test other sites there to see how we measure up!</b></p><p><b>To start your order simply submit your email below and we will contact you within 24 hours!</b></p><p><b><br></b></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d",
+          "_styles": {
+            "P": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px",
+              "color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-6",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wood-slice-2000x406.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#503c37",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.8"
+          },
+          "text": "Social Media",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-secondary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/areahintsng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-secondary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/areahintsng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-secondary\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/areahintsng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "color": "#2e2e2e"
+            },
+            ".lead P": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Services",
+          "text": "<p>In addition to Web Developement we also handle graphics and do social media!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Web Dev Form</a>  ",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-f"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "WEB DEVELOPEMENT",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Apart from static websites, we also build dynamic and ecommerce websites, we employ the best technologies in the web developement  world, from shopify to wordpress to squarespace.<br><br> ",
+          "title2": "SOCIAL MEDIA",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We run social media adverts based on goals you want acheived, we handle reach, awareness, lead generation, product and information visibility as well as online campaigns.<br><br>",
+          "title3": "BRANDING",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We design graphics for any job/business you have in mind. We run logos, letterheads,business cards, ID cards and invoices we also update old existing logos into modern masterpieces.<br><br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/JSObK8q1p2OfLuhX2\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Web Dev Form</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/EUGirDd2VqStVzZi1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Social Media Form</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://goo.gl/forms/U2rEcwp7bgMnMogu2\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Graphics Design Form</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-g",
+          "_styles": {
+            "P": {
+              "color": "#2e2e2e",
+              "font-size": "20px"
+            },
+            "H4": {
+              "color": "#2e2e2e",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wood-slice-2000x406.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#503c37",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Submit Your Email&nbsp;",
+          "subtitle": "We will be in Touch Shortly!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
+          "form": {
+            "action": "tunetokheyno@gmail.com",
+            "alerts": {
+              "success": "Thanks for submitting your email! we will be in touch!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-e"
+        }
+      ]
+    },
+    "legal.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Legal",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#44cccc"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v"
+        },
+        {
+          "_params": {
+            "nbAccordion": 2,
+            "showTitle": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/accordion/deltapi.svg",
+            "bgColorRadio": true,
+            "bgColor": "#44cccc",
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "accordions": [
+              {
+                "heading": "heading1",
+                "collapse": "collapse1",
+                "href": "#collapse1",
+                "active": true,
+                "title": "Areahints Privacy Policy",
+                "text": "AREAHINTS is committed to maintaining robust privacy protections for its users. Our Privacy Policy is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.\n<br>\n<br>For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at Areahints.com. in which users can order web development, branding and social media gigs. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.\n<br>\n<br>I. INFORMATION WE COLLECT\n<br>We collect “Non-Personal Information” and “Personal Information.” Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks. Personal Information includes only your email, which you submit to us through the Site.\n<br>\n<br>1.\tInformation collected via Technology\n<br>To activate the Service you do not need to submit any Personal Information other than your email address. To use the Service thereafter, you do not need to submit further Personal Information. However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you. We track this information using cookies, or small text files which include an anonymous unique identifier. Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive. Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis.\n<br>\n<br>The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.\n<br>\n<br>In addition to the information provided automatically by your browser when you visit the Site, you can reach us by submitting your email address. By doing so, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.\n<br>\n<br>II. HOW WE USE AND SHARE INFORMATION\n<br>\n<br>Personal Information:\n<br>Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us. Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.\n<br>In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.\n<br>\n<br>Non-Personal Information\n<br>In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.\n<br>\n<br>In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Site periodically if you are concerned about how your information is used.\n<br>\n<br>III. HOW WE PROTECT INFORMATION\n<br>We implement security measures designed to protect your information from unauthorized access. Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use. We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.\n<br>\n<br>IV. YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION\n<br>You have the right at any time to prevent us from contacting you for marketing purposes. When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. You can also indicate that you do not wish to receive marketing communications from us via email. Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.\n<br>\n<br>V. LINKS TO OTHER WEBSITES\n<br>As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.\n<br>\n<br>VI. CHANGES TO OUR PRIVACY POLICY\n<br>The Company reserves the right to change this policy and our Terms of Service at any time. We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.\n<br>\n<br>VII. CONTACT US\n<br>If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to support@areahints.com.\n<br>Last Updated: This Privacy Policy was last updated on 16-08-2017."
+              },
+              {
+                "heading": "heading2",
+                "collapse": "collapse2",
+                "href": "#collapse2",
+                "active": true,
+                "title": "Areahints Terms and Conditions of Use",
+                "text": "1.\tIntroduction\n<br>\n<br>1.1\tThese terms and conditions shall govern your use of our website.\n<br>\n<br>1.2\tBy using our website, you accept these terms and conditions in full; accordingly, if you disagree with these terms and conditions or any part of these terms and conditions, you must not use our website.\n<br>\n<br>1.3\tIf you use any of our website services, we will ask you to expressly agree to these terms and conditions.\n<br>\n<br>1.4\tYou must be at least 16 years of age to use our website; by using our website or agreeing to these terms and conditions, you warrant and represent to us that you are at least 16 years of age.\n<br>\n<br>1.5\tOur website uses cookies; by using our website or agreeing to these terms and conditions, you consent to our use of cookies in accordance with the terms of our privacy and cookies policy.\n<br>\n<br>2.\tCredit\n<br>\n<br>2.1\tThis document was created using a template from SEQ Legal (http://www.seqlegal.com).\n<br>\n<br>3.\tCopyright notice\n<br>\n<br>3.1\tCopyright (c) 2017 Areahints ltd.\n<br>\n<br>3.2\tSubject to the express provisions of these terms and conditions:\n<br>(a)\twe, together with our licensors, own and control all the copyright and other intellectual property rights in our website and the material on our website; and\n<br>(b)\tall the copyright and other intellectual property rights in our website and the material on our website are reserved.\n<br>\n<br>4.\tLicense to use website\n<br>4.1\tYou may:\n<br>(a)\tview pages from our website in a web browser;\n<br>(b)\tdownload pages from our website for caching in a web browser;\n<br>(c)\tprint pages from our website;\n<br>(d)\tdownload/stream audio and video files from our website;\n<br>subject to the other provisions of these terms and conditions.\n<br>\n<br>4.2\tExcept as expressly permitted by Section 4.1 or the other provisions of these terms and conditions, you must not download any material from our website or save any such material to your computer.\n<br>\n<br>4.3\tYou may only use our website for your own business purposes, and you must not use our website for any other purposes.\n<br>\n<br>4.4\tExcept as expressly permitted by these terms and conditions, you must not edit or otherwise modify any material on our website.\n<br>\n<br>4.5\tUnless you own or control the relevant rights in the material, you must not:\n<br>(a)\trepublish material from our website (including republication on another website);\n<br>(b)\tsell, rent or sub-license material from our website;\n<br>(c)\tshow any material from our website in public;\n<br>(d)\texploit material from our website for a commercial purpose; or\n<br>(e)\tredistribute material from our website.\n<br>\n<br>4.6\tNotwithstanding Section 4.5, you may redistribute our email newsletter in print and electronic form to any person.\n<br>\n<br>4.7\tWe reserve the right to restrict access to areas of our website, or indeed our whole website, at our discretion; you must not circumvent or bypass, or attempt to circumvent or bypass, any access restriction measures on our website.\n<br>\n<br>5.\tAcceptable use\n<br>\n<br>5.1\tYou must not:\n<br>(a)\tuse our website in any way or take any action that causes, or may cause, damage to the website or impairment of the performance, availability or accessibility of the website;\n<br>(b)\tuse our website in any way that is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity;\n<br>(c)\tuse our website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software;\n<br>(d)\tconduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to our website without our express written consent;\n<br>(e)\taccess or otherwise interact with our website using any robot, spider or other automated means, except for the purpose of search engine indexing;\n<br>(f)\tviolate the directives set out in the robots.txt file for our website;\n<br>\n<br>5.2\tYou must not use data collected from our website to contact individuals, companies or other persons or entities.\n<br>\n<br>5.3\tYou must ensure that all the information you supply to us through our website, or in relation to our website, is true, accurate, current, complete and non-misleading.\n<br>\n<br>6.\tYour content: license\n<br>\n<br>6.1\tIn these terms and conditions, \"your content\" means all works and materials (including without limitation text, graphics, images, audio material, video material, audio-visual material, scripts, software and files) that you submit to us or our website for storage or publication on, processing by, or transmission via, our website.\n<br>\n<br>6.2\tYou grant to us a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, store, adapt, publish, translate and distribute your content in any existing or future media OR reproduce, store and publish your content on and in relation to this website and any successor website OR reproduce, store and, with your specific consent, publish your content on and in relation to this website.\n<br>\n<br>6.3\tYou grant to us the right to sub-license the rights licensed under Section 6.2.\n<br>\n<br>6.4\tYou grant to us the right to bring an action for infringement of the rights licensed under Section 6.2.\n<br>\n<br>6.5\tYou hereby waive all your moral rights in your content to the maximum extent permitted by applicable law; and you warrant and represent that all other moral rights in your content have been waived to the maximum extent permitted by applicable law.\n<br>\n<br>6.6\tYou may edit your content to the extent permitted using the editing functionality made available on our website.\n<br>\n<br>6.7\tWithout prejudice to our other rights under these terms and conditions, if you breach any provision of these terms and conditions in any way, or if we reasonably suspect that you have breached these terms and conditions in any way, we may delete, unpublish or edit any or all of your content.\n<br>\n<br>7.\tYour content: rules\n<br>\n<br>7.1\tYou warrant and represent that your content will comply with these terms and conditions.\n<br>\n<br>7.2\tYour content must not be illegal or unlawful, must not infringe any person's legal rights, and must not be capable of giving rise to legal action against any person (in each case in any jurisdiction and under any applicable law).\n<br>\n<br>7.3\tYour content, and the use of your content by us in accordance with these terms and conditions, must not:\n<br>(a)\tbe libelous or maliciously false;\n<br>(b)\tbe obscene or indecent;\n<br>(c)\tinfringe any copyright, moral right, database right, trade mark right, design right, right in passing off, or other intellectual property right;\n<br>(d)\tinfringe any right of confidence, right of privacy or right under data protection legislation;\n<br>(e)\tconstitute negligent advice or contain any negligent statement;\n<br>(f)\tconstitute an incitement to commit a crime, instructions for the commission of a crime or the promotion of criminal activity;\n<br>(g)\tbe in contempt of any court, or in breach of any court order;\n<br>(h)\tbe in breach of racial or religious hatred or discrimination legislation;\n<br>(i)\tbe blasphemous;\n<br>(j)\tbe in breach of official secrets legislation;\n<br>(k)\tbe in breach of any contractual obligation owed to any person;\n<br>(l)\tdepict violence in an explicit, graphic or gratuitous manner;\n<br>(m)\tbe pornographic, lewd, suggestive or sexually explicit;\n<br>(n)\tbe untrue, false, inaccurate or misleading;\n<br>(o)\tconsist of or contain any instructions, advice or other information which may be acted upon and could, if acted upon, cause illness, injury or death, or any other loss or damage;\n<br>(p)\tconstitute spam;\n<br>(q)\tbe offensive, deceptive, fraudulent, threatening, abusive, harassing, anti-social, menacing, hateful, discriminatory or inflammatory; or\n<br>(r)\tcause annoyance, inconvenience or needless anxiety to any person.\n<br>\n<br>8.\tLimited warranties\n<br>\n<br>8.1\tWe do not warrant or represent:\n<br>(a)\tthe completeness or accuracy of the information published on our website;\n<br>(b)\tthat the material on the website is up to date;\n<br>(c)\tthat the website or any service on the website will remain available.\n<br>\n<br>8.2\tWe reserve the right to discontinue or alter any or all of our website services, and to stop publishing our website, at any time in our sole discretion without notice or explanation; and save to the extent expressly provided otherwise in these terms and conditions, you will not be entitled to any compensation or other payment upon the discontinuance or alteration of any website services, or if we stop publishing the website.\n<br>\n<br>8.3\tTo the maximum extent permitted by applicable law and subject to Section 9.1, we exclude all representations and warranties relating to the subject matter of these terms and conditions, our website and the use of our website.\n<br>\n<br>9.\tLimitations and exclusions of liability\n<br>\n<br>9.1\tNothing in these terms and conditions will:\n<br>(a)\tlimit or exclude any liability for death or personal injury resulting from negligence;\n<br>(b)\tlimit or exclude any liability for fraud or fraudulent misrepresentation;\n<br>(c)\tlimit any liabilities in any way that is not permitted under applicable law; or\n<br>(d)\texclude any liabilities that may not be excluded under applicable law.\n<br>\n<br>9.2\tThe limitations and exclusions of liability set out in this Section 9 and elsewhere in these terms and conditions:\n<br>(a)\tare subject to Section 9.1; and\n<br>(b)\tgovern all liabilities arising under these terms and conditions or relating to the subject matter of these terms and conditions, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty, except to the extent expressly provided otherwise in these terms and conditions.\n<br>\n<br>9.3\tTo the extent that our website and the information and services on our website are provided free of charge, we will not be liable for any loss or damage of any nature.\n<br>\n<br>9.4\tWe will not be liable to you in respect of any losses arising out of any event or events beyond our reasonable control.\n<br>\n<br>9.5\tWe will not be liable to you in respect of any business losses, including (without limitation) loss of or damage to profits, income, revenue, use, production, anticipated savings, business, contracts, commercial opportunities or goodwill.\n<br>\n<br>9.6\tWe will not be liable to you in respect of any loss or corruption of any data, database or software.\n<br>\n<br>9.7\tWe will not be liable to you in respect of any special, indirect or consequential loss or damage.\n<br>\n<br>9.8\tYou accept that we have an interest in limiting the personal liability of our officers and employees and, having regard to that interest, you acknowledge that we are a limited liability entity; you agree that you will not bring any claim personally against our officers or employees in respect of any losses you suffer in connection with the website or these terms and conditions (this will not, of course, limit or exclude the liability of the limited liability entity itself for the acts and omissions of our officers and employees).\n<br>\n<br>10.\tBreaches of these terms and conditions\n<br>\n<br>10.1\tWithout prejudice to our other rights under these terms and conditions, if you breach these terms and conditions in any way, or if we reasonably suspect that you have breached these terms and conditions in any way, we may:\n<br>(a)\tsend you one or more formal warnings;\n<br>(b)\ttemporarily suspend your access to our website;\n<br>(c)\tpermanently prohibit you from accessing our website;\n<br>(d)\tblock computers using your IP address from accessing our website;\n<br>(e)\tcontact any or all of your internet service providers and request that they block your access to our website;\n<br>(f)\tcommence legal action against you, whether for breach of contract or otherwise; and/or\n<br>(g)\tsuspend or delete your account on our website.\n<br>\n<br>10.2\tWhere we suspend or prohibit or block your access to our website or a part of our website, you must not take any action to circumvent such suspension or prohibition or blocking (including without limitation creating and/or using a different account).\n<br>\n<br>11.\tVariation\n<br>\n<br>11.1\tWe may revise these terms and conditions from time to time.\n<br>\n<br>11.2\tThe revised terms and conditions shall apply to the use of our website from the date of publication of the revised terms and conditions on the website, and you hereby waive any right you may otherwise have to be notified of, or to consent to, revisions of these terms and conditions\n<br>\n<br>11.3\tIf you have given your express agreement to these terms and conditions, we will ask for your express agreement to any revision of these terms and conditions; and if you do not give your express agreement to the revised terms and conditions within such period as we may specify, we will disable or delete your account on the website, and you must stop using the website.\n<br>\n<br>12.\tAssignment\n<br>\n<br>12.1\tYou hereby agree that we may assign, transfer, sub-contract or otherwise deal with our rights and/or obligations under these terms and conditions.\n<br>\n<br>12.2\tYou may not without our prior written consent assign, transfer, sub-contract or otherwise deal with any of your rights and/or obligations under these terms and conditions.\n<br>\n<br>13.\tSeverability\n<br>\n<br>13.1\tIf a provision of these terms and conditions is determined by any court or other competent authority to be unlawful and/or unenforceable, the other provisions will continue in effect.\n<br>\n<br>13.2\tIf any unlawful and/or unenforceable provision of these terms and conditions would be lawful or enforceable if part of it were deleted, that part will be deemed to be deleted, and the rest of the provision will continue in effect.\n<br>\n<br>14.\tThird party rights\n<br>\n<br>14.1\tA contract under these terms and conditions is for our benefit and your benefit, and is not intended to benefit or be enforceable by any third party.\n<br>\n<br>14.2\tThe exercise of the parties' rights under a contract under these terms and conditions is not subject to the consent of any third party.\n<br>\n<br>15.\tEntire agreement\n<br>\n<br>15.1\tSubject to Section 9.1, these terms and conditions, together with our privacy and cookies policy, shall constitute the entire agreement between you and us in relation to your use of our website and shall supersede all previous agreements between you and us in relation to your use of our website.\n<br>\n<br>16.\tLaw and jurisdiction\n<br>\n<br>16.1\tThese terms and conditions shall be governed by and construed in accordance with International law.\n<br>\n<br>16.2\tAny disputes relating to these terms and conditions shall be subject to the exclusive jurisdiction of the courts of Nigeria.\n<br>\n<br>17.\tStatutory and regulatory disclosures\n<br>\n<br>17.1\tWe are registered in Nigeria; and our registration number is RC1381930.\n<br>\n<br>17.2\tWe are subject to Nigerian and International Law.\n<br>\n<br>17.3\tWe are registered as Areahints Ltd with CAC in Nigeria.\n<br>\n<br>17.5\tOur TIN number is [number].\n<br>\n<br>18.\tOur details\n<br>\n<br>18.1\tThis website is owned and operated by Areahints ltd.\n<br>\n<br>18.2\tWe are registered in Nigeria under registration number RC1381930.\n<br>\n<br>18.3\tYou can contact us:\n<br>(a)\tusing our website contact form;\n<br>(b)\tby email, using the email address published on our website from time to time."
+              },
+              {
+                "heading": "heading3",
+                "collapse": "collapse3",
+                "href": "#collapse3",
+                "active": false,
+                "title": "(+) Accordion 3",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading4",
+                "collapse": "collapse4",
+                "href": "#collapse4",
+                "active": false,
+                "title": "(+) Accordion 4",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading5",
+                "collapse": "collapse5",
+                "href": "#collapse5",
+                "active": false,
+                "title": "(+) Accordion 5",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading6",
+                "collapse": "collapse6",
+                "href": "#collapse6",
+                "active": false,
+                "title": "(+) Accordion 6",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading7",
+                "collapse": "collapse7",
+                "href": "#collapse7",
+                "active": false,
+                "title": "(+) Accordion 7",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading8",
+                "collapse": "collapse8",
+                "href": "#collapse8",
+                "active": false,
+                "title": "(+) Accordion 8",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading9",
+                "collapse": "collapse9",
+                "href": "#collapse9",
+                "active": false,
+                "title": "(+) Accordion 9",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "heading": "heading10",
+                "collapse": "collapse10",
+                "href": "#collapse10",
+                "active": false,
+                "title": "(+) Accordion 10",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              }
+            ]
+          },
+          "title": "Legal Matters",
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            ".panel-group": {
+              "margin-bottom": "20px"
+            },
+            ".panel": {
+              "margin-bottom": "20px",
+              "background-color": "#fff",
+              "border": "1px solid transparent",
+              "border-radius": "4px",
+              "-webkit-box-shadow": "0 1px 1px rgba(0, 0, 0, .05)",
+              "box-shadow": "0px 1px 1px rgba(0,0,0,0.05)"
+            },
+            ".panel-default": {
+              "border-color": "#ddd"
+            },
+            ".panel-group .panel": {
+              "margin-bottom": "0px",
+              "border-radius": "4px"
+            },
+            ".panel-group .panel + .panel": {
+              "margin-top": "5px"
+            },
+            ".panel-heading": {
+              "padding": "10px 15px",
+              "border-bottom": "1px solid transparent",
+              "border-top-left-radius": "3px",
+              "border-top-right-radius": "3px"
+            },
+            ".panel-group .panel-heading": {
+              "border-bottom": "0"
+            },
+            ".panel-default > .panel-heading": {
+              "color": "#333",
+              "background-color": "#f5f5f5",
+              "border-color": "#ddd"
+            },
+            ".collapse": {
+              "display": "n1"
+            },
+            ".panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group": {
+              "border-top": "1px solid #ddd"
+            },
+            ".panel-default > .panel-heading + .panel-collapse > .panel-body": {
+              "border-top-color": "#ddd"
+            },
+            ".panel-title": {
+              "margin-top": "0px",
+              "margin-bottom": "0px",
+              "font-size": "16px",
+              "color": "inherit"
+            },
+            "[role=\"button\"]": {
+              "cursor": "pointer"
+            },
+            ".panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a": {
+              "color": "inherit"
+            }
+          },
+          "alias": "accordion",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "accordion-block",
+          "_anchor": "accordion-block-u"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/areahints-fl-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AREAHINTS</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#content7-2\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Website Building</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Social Media Advert&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Branding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://medium.com/@areahintsng\" aria-expanded=\"false\" target=\"_blank\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#form2-e\">Order</a></li>",
+          "_anchor": "menu-k"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Areahints.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Submit Your Email&nbsp;",
+          "subtitle": "We will be in Touch Shortly!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
+          "form": {
+            "action": "tunetokheyno@gmail.com",
+            "alerts": {
+              "success": "Thanks for submitting your email! we will be in touch!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#44cccc"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#44cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Services",
+          "text": "<p>In addition to Web Developement we also handle graphics and do social media!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Web Dev Form</a>  ",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-q"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#44cccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-2000x1333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "WEB DEVELOPEMENT",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Apart from static websites, we also build dynamic and ecommerce websites, we employ the best technologies in the web developement  world, from shopify to wordpress to squarespace.<br><br> ",
+          "title2": "SOCIAL MEDIA",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We run social media adverts based on goals you want acheived, we handle reach, awareness, lead generation, product and information visibility as well as online campaigns.<br><br>",
+          "title3": "GRAPHICS DESIGN",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We design graphics for any job/business you have in mind. We run logos, letterheads,business cards, ID cards and invoices we also update old existing logos into modern masterpieces.<br><br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Web Dev Form</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Social Media Form</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Graphics Design Form</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "features3-r"
+        }
+      ]
+    }
+  }
+}
