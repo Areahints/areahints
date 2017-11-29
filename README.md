@@ -1,2 +1,0 @@
-# areahints
-GitHub Pages
